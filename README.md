@@ -1,10 +1,10 @@
-# Workflowy
+# Noona Workflow
 
 ## About the App
 
 Noona Workflow is an integration hub for Noona HQ, enabling users to trigger actions based on events in Noona HQ.
 
-With Workflowy, you can create workflows that are activated by specific events in Noona HQ. These workflows can be triggered immediately when an event occurs or scheduled to execute at a specified time before or after the event.
+With Noona Workflow, you can create workflows that are activated by specific events in Noona HQ. These workflows can be triggered immediately when an event occurs or scheduled to execute at a specified time before or after the event.
 
 The app features a user-friendly wizard that guides users through the setup process, simplifying complexity and ensuring a smooth experience.
 
