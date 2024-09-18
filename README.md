@@ -40,12 +40,6 @@ The data is stored in Firebase Firestore.
 
 ## Development
 
-To develop locally, run the Firebase emulator since this project uses Firebase Firestore:
-```shell
-firebase init
-firebase emulators:start
-```
-
 Start the Vite development server:
 ```shell
 npm run dev
